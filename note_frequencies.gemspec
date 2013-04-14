@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = NoteFrequencies::VERSION
   spec.authors       = ["Choan Gálvez"]
   spec.email         = ["choan.galvez@gmail.com"]
-  spec.description   = %q{TODO: Convert musical note names to frequencies}
-  spec.summary       = %q{TODO: A tool for converting musical note names to it vibrating frequencies. Accepts input in both Helmholtz (`a'`, `a,`) and scientific notation (`a4`, `a3`)}
+  spec.description   = %q{Convert musical note names to frequencies}
+  spec.summary       = %q{A tool for converting musical note names to it vibrating frequencies. Accepts input in both Helmholtz (`a'`, `a,`) and scientific notation (`a4`, `a3`)}
   spec.homepage      = ""
   spec.license       = "MIT"
 
